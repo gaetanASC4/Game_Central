@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee');
+*  {
+font-family: 'Bungee', cursive;
+}
+.body{
+    background-color: black;
+}
+.navbar{
+    color: white !important;
+}
+.carousel > .carousel-inner > .carousel-item {
+width: 100% !important;
+margin: auto !important;
+float:right !important;
+height: auto !important; 
+background-color: black;
+}
+
+img {
+    margin: auto !important;
+    float:right !important;
+    
+}
+
+#backdoe{
+font-family: 'Bungee', cursive;
+font-size: 30px;
+margin-left: 1200px;
+}
+
+.card{
+    margin-left: 40%;
+}
+.card-text{
+text-align: center;
+}
+
+.card-title{
+text-align: center;
+}
+
+.card-body{
+    text-align: center;
+}
+
+#homebutt{
+    font-family: 'Bungee', cursive;
+}
